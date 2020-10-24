@@ -1,0 +1,44 @@
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+\documentclass[11pt, a4paper]{awesome-cv}
+
+%%% Override a directory location for fonts(default: 'fonts/')
+\fontdir[fonts/]
+
+%%% Configure a directory location for sections
+\newcommand*{\sectiondir}{resume/}
+\colorlet{awesome}{awesome-red}
+\usepackage{import}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     Personal Data
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Essentials
+\name{\text{Lance Gomes}}{}
+\mobile{647-975-5834} 
+%%% Social
+\github{github.com/lance-gomes}
+\email{lancegomes98@gmail.com}
+%%% Optionals
+% \position{Software Engineer{\enskip\cdotp\enskip}Security Expert}
+% \quote{``Make the change that you want to see in the world."}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     Content
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Make a footer for CV with three arguments(<left>, <center>, <right>)
+
+\begin{document}
+%%% Make a header for CV with personal data
+\makecvheader
+\vspace{-1.60ex}
+%%% Import contents
+
+\import{\sectiondir}{SummaryOfSkills.tex}
+\import{\sectiondir}{experience.tex}
+\import{\sectiondir}{projects.tex}
+\import{\sectiondir}{education.tex}
+
+\end{document}
