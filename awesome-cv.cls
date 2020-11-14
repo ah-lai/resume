@@ -432,11 +432,7 @@
       \ifthenelse{\isundefined{\@email}}
         {}
         {
-          \ifbool{isstart}
-            {
-              \setbool{istart}{false} 
-            }
-            {\@headersocialsep}
+          \setbool{isstart}{false}
           \href{mailto:\@email}{\faEnvelope\ \@email}
         }
       \ifthenelse{\isundefined{\@homepage}}
