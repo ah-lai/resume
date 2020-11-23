@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.4.7)  17 NOV 2020 22:58
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.4.7)  22 NOV 2020 19:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -740,28 +740,28 @@ l.2   \cvsection{Professional Experience}
 ? 
 LaTeX Font Info:    Font shape `TU/Roboto(0)/m/sl' in size <9> not available
 (Font)              Font shape `TU/Roboto(0)/m/it' tried instead on input line 
-17.
+18.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/sl' in size <9.5> not ava
 ilable
 (Font)              Font shape `TU/SourceSansPro(1)/m/it' tried instead on inpu
-t line 17.
+t line 18.
 
-Overfull \hbox (2.5827pt too wide) in alignment at lines 17--17
+Overfull \hbox (2.5827pt too wide) in alignment at lines 18--18
 [] [] 
  []
 
 
-Overfull \hbox (2.5827pt too wide) in alignment at lines 30--30
+Overfull \hbox (2.5827pt too wide) in alignment at lines 32--32
 [] [] 
  []
 
 
-Overfull \hbox (2.5827pt too wide) in alignment at lines 42--42
+Overfull \hbox (2.5827pt too wide) in alignment at lines 44--44
 [] [] 
  []
 
 
-Overfull \hbox (2.5827pt too wide) in alignment at lines 53--53
+Overfull \hbox (2.5827pt too wide) in alignment at lines 55--55
 [] [] 
  []
 
@@ -868,6 +868,45 @@ Overfull \hbox (5.42815pt too wide) in alignment at lines 21--21
 [] [] 
  []
 
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.29     }
+          
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.29     }
+          
+? 
+! Extra }, or forgotten \endgroup.
+<recently read> }
+                 
+l.29     }
+          
+? 
+! Misplaced \omit.
+\multispan ->\omit 
+                   \@multispan 
+l.29     }
+          
+? 
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.29     }
+          
+? 
+
+Overfull \hbox (5.42815pt too wide) in alignment at lines 29--29
+[] [] 
+ []
+
 ) (./resume/education.tex
 
 ! Package kvsetkeys Error: Undefined key `topmargin'.
@@ -921,11 +960,11 @@ Package rerunfilecheck Info: File `resume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 19528 strings out of 479418
- 345332 string characters out of 5884586
- 823998 words of memory out of 5000000
- 36758 multiletter control sequences out of 15000+600000
- 534918 words of font info for 86 fonts, out of 8000000 for 9000
+ 19530 strings out of 479418
+ 345435 string characters out of 5884586
+ 822998 words of memory out of 5000000
+ 36759 multiletter control sequences out of 15000+600000
+ 534926 words of font info for 87 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  54i,11n,112p,835b,684s stack positions out of 5000i,500n,10000p,200000b,80000s
 
