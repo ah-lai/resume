@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.4.7)  27 NOV 2020 23:52
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.4.7)  28 NOV 2020 13:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -740,41 +740,41 @@ l.3   \cvsection{Professional Experience}
 ? 
 LaTeX Font Info:    Font shape `TU/Roboto(0)/m/sl' in size <9> not available
 (Font)              Font shape `TU/Roboto(0)/m/it' tried instead on input line 
-20.
+21.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/sl' in size <9.5> not ava
 ilable
 (Font)              Font shape `TU/SourceSansPro(1)/m/it' tried instead on inpu
-t line 20.
-LaTeX Font Info:    Calculating math sizes for size <9.9> on input line 20.
+t line 21.
+LaTeX Font Info:    Calculating math sizes for size <9.9> on input line 21.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 9.90105pt on input line 20.
+(Font)              scaled to size 9.90105pt on input line 21.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 6.9307pt on input line 20.
+(Font)              scaled to size 6.9307pt on input line 21.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 4.95052pt on input line 20.
+(Font)              scaled to size 4.95052pt on input line 21.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 9.89893pt on input line 20.
+(Font)              scaled to size 9.89893pt on input line 21.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 6.92921pt on input line 20.
+(Font)              scaled to size 6.92921pt on input line 21.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 4.94946pt on input line 20.
+(Font)              scaled to size 4.94946pt on input line 21.
 
-Overfull \hbox (2.5827pt too wide) in alignment at lines 20--20
+Overfull \hbox (2.5827pt too wide) in alignment at lines 21--21
 [] [] 
  []
 
 
-Overfull \hbox (2.5827pt too wide) in alignment at lines 34--34
+Overfull \hbox (2.5827pt too wide) in alignment at lines 35--35
 [] [] 
  []
 
 
-Overfull \hbox (2.5827pt too wide) in alignment at lines 46--46
+Overfull \hbox (2.5827pt too wide) in alignment at lines 47--47
 [] [] 
  []
 
 
-Overfull \hbox (2.5827pt too wide) in alignment at lines 57--57
+Overfull \hbox (2.5827pt too wide) in alignment at lines 58--58
 [] [] 
  []
 
@@ -975,7 +975,7 @@ Package rerunfilecheck Info: File `resume.out' has not changed.
 Here is how much of TeX's memory you used:
  19557 strings out of 479418
  346524 string characters out of 5884586
- 823998 words of memory out of 5000000
+ 824998 words of memory out of 5000000
  36775 multiletter control sequences out of 15000+600000
  536578 words of font info for 99 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
