@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.5.21)  21 MAY 2021 19:55
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.5.21)  23 MAY 2021 10:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -673,41 +673,54 @@ LaTeX Info: Redefining \nameref on input line 35.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.2 \cvsection{Skills}
+l.3 \cvsection{Skills}
                       
 ? 
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 10.95116pt on input line 2.
+(Font)              scaled to size 10.95116pt on input line 3.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.6658pt on input line 2.
+(Font)              scaled to size 7.6658pt on input line 3.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.47559pt on input line 2.
+(Font)              scaled to size 5.47559pt on input line 3.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 10.94882pt on input line 2.
+(Font)              scaled to size 10.94882pt on input line 3.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 7.66417pt on input line 2.
+(Font)              scaled to size 7.66417pt on input line 3.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 5.47441pt on input line 2.
+(Font)              scaled to size 5.47441pt on input line 3.
 ! Missing delimiter (. inserted).
 <to be read again> 
                    \par 
-l.2 \cvsection{Skills}
+l.3 \cvsection{Skills}
                       
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.2 \cvsection{Skills}
+l.3 \cvsection{Skills}
                       
 ? 
 ! Missing \right. inserted.
 <inserted text> 
                 \right .
-l.2 \cvsection{Skills}
+l.3 \cvsection{Skills}
                       
 ? 
+LaTeX Font Info:    Calculating math sizes for size <9.9> on input line 13.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 9.90105pt on input line 13.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 6.9307pt on input line 13.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 4.95052pt on input line 13.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 9.89893pt on input line 13.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 6.92921pt on input line 13.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 4.94946pt on input line 13.
 
-Underfull \hbox (badness 10000) in alignment at lines 11--11
+Underfull \hbox (badness 10000) in alignment at lines 13--13
 [][] 
  []
 
@@ -758,19 +771,6 @@ Overfull \hbox (2.5827pt too wide) in alignment at lines 21--21
 [] [] 
  []
 
-LaTeX Font Info:    Calculating math sizes for size <9.9> on input line 35.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 9.90105pt on input line 35.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 6.9307pt on input line 35.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 4.95052pt on input line 35.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 9.89893pt on input line 35.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 6.92921pt on input line 35.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 4.94946pt on input line 35.
 
 Overfull \hbox (2.5827pt too wide) in alignment at lines 35--35
 [] [] 
@@ -968,19 +968,19 @@ Overfull \hbox (2.5827pt too wide) in alignment at lines 9--9
 [] [] 
  []
 
-[1
+) [1
 
-]) [2] (./resume.aux)
+] (./resume.aux)
 Package rerunfilecheck Info: File `resume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
  18776 strings out of 476919
  333599 string characters out of 5821840
- 842960 words of memory out of 5000000
+ 841960 words of memory out of 5000000
  38470 multiletter control sequences out of 15000+600000
  407670 words of font info for 102 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 112i,12n,116p,525b,684s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 112i,13n,116p,525b,710s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on resume.pdf (2 pages).
+Output written on resume.pdf (1 page).
