@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.5.21)  28 MAY 2021 20:56
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.5.21)  29 MAY 2021 15:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -669,11 +669,7 @@ LaTeX Info: Redefining \nameref on input line 35.
 \@outlinefile=\write3
 \openout3 = `resume.out'.
 
-
-
-Package hyperref Warning: Rerun to get /PageLabels entry.
-
-(./resume/SummaryOfSkills.tex
+ (./resume/SummaryOfSkills.tex
 ! Missing $ inserted.
 <inserted text> 
                 $
@@ -942,7 +938,7 @@ Package rerunfilecheck Info: File `resume.out' has not changed.
 Here is how much of TeX's memory you used:
  18776 strings out of 476919
  333599 string characters out of 5821840
- 840953 words of memory out of 5000000
+ 841955 words of memory out of 5000000
  38470 multiletter control sequences out of 15000+600000
  407670 words of font info for 102 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
