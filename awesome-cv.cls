@@ -554,8 +554,8 @@
   rightline=false,
   topmargin=1pt,
   innertopmargin=9pt
-  bottommargin=-1.5pt,
-  innerbottommargin=-1.5pt,
+  bottommargin=0pt,
+  innerbottommargin=13pt,
   splittopskip=\topskip,
   splitbottomskip=1.0\topskip,
   linecolor={green},

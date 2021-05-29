@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.5.21)  23 MAY 2021 10:56
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.5.21)  28 MAY 2021 20:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -669,7 +669,11 @@ LaTeX Info: Redefining \nameref on input line 35.
 \@outlinefile=\write3
 \openout3 = `resume.out'.
 
- (./resume/SummaryOfSkills.tex
+
+
+Package hyperref Warning: Rerun to get /PageLabels entry.
+
+(./resume/SummaryOfSkills.tex
 ! Missing $ inserted.
 <inserted text> 
                 $
@@ -706,21 +710,8 @@ l.3 \cvsection{Skills}
 l.3 \cvsection{Skills}
                       
 ? 
-LaTeX Font Info:    Calculating math sizes for size <9.9> on input line 13.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 9.90105pt on input line 13.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 6.9307pt on input line 13.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 4.95052pt on input line 13.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 9.89893pt on input line 13.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 6.92921pt on input line 13.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 4.94946pt on input line 13.
 
-Underfull \hbox (badness 10000) in alignment at lines 13--13
+Underfull \hbox (badness 10000) in alignment at lines 14--14
 [][] 
  []
 
@@ -771,6 +762,19 @@ Overfull \hbox (2.5827pt too wide) in alignment at lines 21--21
 [] [] 
  []
 
+LaTeX Font Info:    Calculating math sizes for size <9.9> on input line 35.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 9.90105pt on input line 35.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 6.9307pt on input line 35.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 4.95052pt on input line 35.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 9.89893pt on input line 35.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 6.92921pt on input line 35.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 4.94946pt on input line 35.
 
 Overfull \hbox (2.5827pt too wide) in alignment at lines 35--35
 [] [] 
@@ -824,68 +828,29 @@ l.2 \cvsection{Projects}
 ! Missing } inserted.
 <inserted text> 
                 }
-l.12   }
+l.20   }
         
 ? 
 ! Extra }, or forgotten \endgroup.
 <recently read> }
                  
-l.12   }
+l.20   }
         
 ? 
 ! Misplaced \omit.
 \multispan ->\omit 
                    \@multispan 
-l.12   }
+l.20   }
         
 ? 
 ! Extra alignment tab has been changed to \cr.
 <recently read> \endtemplate 
                              
-l.12   }
+l.20   }
         
 ? 
 
-Overfull \hbox (5.42815pt too wide) in alignment at lines 12--12
-[] [] 
- []
-
-
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.21     }
-          
-? 
-! Missing } inserted.
-<inserted text> 
-                }
-l.21     }
-          
-? 
-! Extra }, or forgotten \endgroup.
-<recently read> }
-                 
-l.21     }
-          
-? 
-! Misplaced \omit.
-\multispan ->\omit 
-                   \@multispan 
-l.21     }
-          
-? 
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.21     }
-          
-? 
-
-Overfull \hbox (5.42815pt too wide) in alignment at lines 21--21
+Overfull \hbox (5.42815pt too wide) in alignment at lines 20--20
 [] [] 
  []
 
@@ -964,7 +929,7 @@ l.2 \cvsectionedu{Education}
                             
 ? 
 
-Overfull \hbox (2.5827pt too wide) in alignment at lines 9--9
+Overfull \hbox (2.5827pt too wide) in alignment at lines 10--10
 [] [] 
  []
 
@@ -977,10 +942,10 @@ Package rerunfilecheck Info: File `resume.out' has not changed.
 Here is how much of TeX's memory you used:
  18776 strings out of 476919
  333599 string characters out of 5821840
- 841960 words of memory out of 5000000
+ 840953 words of memory out of 5000000
  38470 multiletter control sequences out of 15000+600000
  407670 words of font info for 102 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 112i,13n,116p,525b,710s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 112i,12n,116p,525b,684s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on resume.pdf (1 page).
